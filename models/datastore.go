@@ -4,7 +4,7 @@ import "gopkg.in/mgo.v2"
 
 // TODO: config values
 const (
-	Host     = "mongodb://3.3.3.3:30017"
+	Host     = "mongodb://3.3.3.3:27017"
 	Username = "root"
 	Password = ""
 	Database = "kaupa"
